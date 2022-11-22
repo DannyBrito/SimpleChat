@@ -11,7 +11,7 @@
     "react-id-generator": "^3.0.1",
     "react-notifications": "^1.6.0",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "react-scroll-to-bottom": "^3.0.0",
     "react-uuid": "^1.0.2",
     "socket.io-client": "^2.3.0"
